@@ -45,7 +45,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 ##  AI Systems
 
 ###  Sign Language Detection
-*Insert Image Here (e.g., dataset samples or gestures)*
+<img width="353" height="245" alt="Image" src="https://github.com/user-attachments/assets/71744735-c978-42c9-8940-072978890414" />
 
 - **MediaPipe Hands** for landmark extraction  
 - **Random Forest Classifier** for real-time gesture recognition (A, B, L)  
