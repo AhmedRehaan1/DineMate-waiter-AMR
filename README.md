@@ -9,8 +9,7 @@ Supervised by: **DR Hossam Ammar**
 ---
 
 ##  Project Overview
-*Insert Image Here (e.g., full robot photo)*
-
+![Image](https://github.com/user-attachments/assets/7b5050a0-cdce-46e0-90a8-8f4cf50ca321)
 This project presents a smart autonomous robot that acts as a **restaurant waiter**, combining AI-based gesture/voice interaction, real-time obstacle detection using **YOLOv8**, and precise control powered by **PID tuning** and **ESP32** integration.
 
 ---
