@@ -28,7 +28,6 @@ PID Tuning:
 ---
 
 ##  Robot Kinematics & Control
-*Insert Image Here (e.g., kinematics diagram)*
 
 - **Inverse Kinematics**: Maps velocity commands to wheel RPMs  
 - **Forward Kinematics**: Estimates position using encoder data  
