@@ -16,6 +16,7 @@ This project presents a smart autonomous robot that acts as a **restaurant waite
 
 ##  Technical Specifications
 <img width="581" height="300" alt="Image" src="https://github.com/user-attachments/assets/059b9548-049e-49a1-810c-2bc0dd542222" />
+
 - **Controller**: ESP32  
 - **Motors**: JGY-370 + Encoders  
 - **Sensors**: Load Cell, MPU6050  
