@@ -36,8 +36,7 @@ PID Tuning:
 ---
 
 ##  Go-To-Goal Navigation
-*Insert Image Here (e.g., trajectory plot)*
-
+![Image](https://github.com/user-attachments/assets/43771df9-4f9f-4e10-90cc-b49831ce94d4)
 A Euclidean distance-based algorithm lets the robot move to a designated goal table autonomously while tracking heading and distance errors in real-time.
 
 ---
