@@ -76,7 +76,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 ---
 
 ##  Operational Workflow
-*Insert Image Here (e.g., robot with tray in kitchen)*
+<img width="715" height="495" alt="Image" src="https://github.com/user-attachments/assets/cced6bda-686c-4adf-ae90-e29d7d43e29f" />
 
 1. Gesture Command Issued  
 2. Tray Loaded Manually  
@@ -132,7 +132,7 @@ All parts sourced locally, including 3D-printed shaft and chassis.
 
 ---
 
-## 🧠 Future Improvements
+## Future Improvements
 
 - Dynamic map-based navigation (SLAM)  
 - Cloud-based analytics dashboard  
@@ -140,7 +140,7 @@ All parts sourced locally, including 3D-printed shaft and chassis.
 
 ---
 
-## 📎 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
