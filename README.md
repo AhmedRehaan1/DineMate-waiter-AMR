@@ -87,6 +87,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 
 ##  Gesture-Based Scanning & Analytics
 <img width="647" height="377" alt="Image" src="https://github.com/user-attachments/assets/3d42d08e-7eae-4f59-a28c-5e357d3505b8" />
+
 - Gesture 'L' triggers 180° scanning  
 - YOLO-based camera scan for customer presence  
 - Gathers analytics and confirms service delivery
