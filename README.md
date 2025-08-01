@@ -61,8 +61,6 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 ---
 
 ##  Teleoperation
-*Insert Image Here (e.g., teleop_keyboard usage)*
-
 ### Keyboard Control
 - `W` = Forward  
 - `S` = Backward  
@@ -70,7 +68,6 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 - `U` = Speed Up
 
 ### Voice Control (ROS Node)
-*Insert Image Here (e.g., microphone/voice diagram)*
 
 - Uses Google Speech Recognition API  
 - Understands: forward, stop, turn left/right, speed up
@@ -98,8 +95,6 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 ---
 
 ##  Mechanical Design
-*Insert Image Here (e.g., chassis photos)*
-
 - Built using **3mm MDF**  
 - Includes custom-designed tray, shaft, and camera mount  
 - Sturdy and easy to maintain
@@ -121,8 +116,6 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 ---
 
 ##  Cost Analysis
-*Insert Image Here (e.g., parts table or cost chart)*
-
 **Total Cost**: ~7,235 EGP  
 All parts sourced locally, including 3D-printed shaft and chassis.
 
