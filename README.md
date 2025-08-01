@@ -1,4 +1,4 @@
-# 🤖 Autonomous Waiter Mobile Robot
+#  Autonomous Waiter Mobile Robot
 
 A hygienic, AI-powered, autonomous 4-wheeled mobile robot for smart restaurant service — integrating ROS, YOLOv8, ESP32, MediaPipe, voice commands, and more.
 
@@ -8,14 +8,14 @@ Supervised by: **DR Hossam Ammar**
 
 ---
 
-## 📸 Project Overview
+##  Project Overview
 *Insert Image Here (e.g., full robot photo)*
 
 This project presents a smart autonomous robot that acts as a **restaurant waiter**, combining AI-based gesture/voice interaction, real-time obstacle detection using **YOLOv8**, and precise control powered by **PID tuning** and **ESP32** integration.
 
 ---
 
-## ⚙️ Technical Specifications
+##  Technical Specifications
 *Insert Image Here (e.g., technical specs table)*
 
 - **Controller**: ESP32  
@@ -29,7 +29,7 @@ PID Tuning:
 
 ---
 
-## 📐 Robot Kinematics & Control
+##  Robot Kinematics & Control
 *Insert Image Here (e.g., kinematics diagram)*
 
 - **Inverse Kinematics**: Maps velocity commands to wheel RPMs  
@@ -38,23 +38,23 @@ PID Tuning:
 
 ---
 
-## 🧭 Go-To-Goal Navigation
+##  Go-To-Goal Navigation
 *Insert Image Here (e.g., trajectory plot)*
 
 A Euclidean distance-based algorithm lets the robot move to a designated goal table autonomously while tracking heading and distance errors in real-time.
 
 ---
 
-## 🧠 AI Systems
+##  AI Systems
 
-### 🧏‍♀️ Sign Language Detection
+###  Sign Language Detection
 *Insert Image Here (e.g., dataset samples or gestures)*
 
 - **MediaPipe Hands** for landmark extraction  
 - **Random Forest Classifier** for real-time gesture recognition (A, B, L)  
 - Used for **contactless table selection**
 
-### 🧊 YOLOv8 Obstacle Detection
+###  YOLOv8 Obstacle Detection
 *Insert Image Here (e.g., object detection frame)*
 
 - Custom-trained on 2,500+ images  
@@ -64,7 +64,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 
 ---
 
-## 🕹️ Teleoperation
+##  Teleoperation
 *Insert Image Here (e.g., teleop_keyboard usage)*
 
 ### Keyboard Control
@@ -81,7 +81,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 
 ---
 
-## 🍽️ Operational Workflow
+##  Operational Workflow
 *Insert Image Here (e.g., robot with tray in kitchen)*
 
 1. Gesture Command Issued  
@@ -92,7 +92,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 
 ---
 
-## 🔍 Gesture-Based Scanning & Analytics
+##  Gesture-Based Scanning & Analytics
 *Insert Image Here (e.g., customer scanning scene)*
 
 - Gesture 'L' triggers 180° scanning  
@@ -101,7 +101,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 
 ---
 
-## 🛠️ Mechanical Design
+##  Mechanical Design
 *Insert Image Here (e.g., chassis photos)*
 
 - Built using **3mm MDF**  
@@ -110,7 +110,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 
 ---
 
-## ⚡ Electronics Hardware
+##  Electronics Hardware
 *Insert Image Here (e.g., component diagram or wiring)*
 
 | Component        | Qty |  
@@ -124,7 +124,7 @@ A Euclidean distance-based algorithm lets the robot move to a designated goal ta
 
 ---
 
-## 💰 Cost Analysis
+##  Cost Analysis
 *Insert Image Here (e.g., parts table or cost chart)*
 
 **Total Cost**: ~7,235 EGP  
@@ -132,7 +132,7 @@ All parts sourced locally, including 3D-printed shaft and chassis.
 
 ---
 
-## 📚 References
+##  References
 
 1. MediaPipe Framework – Google  
 2. Programming Robots with ROS – O'Reilly  
